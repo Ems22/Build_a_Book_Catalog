@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+  <table>
+    <caption>Book Catalog</caption>
+     <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Publication Year</th>
+        </tr>
+        <tbody>
+            <tr>
+                <td>The Going to Bed Book</td>
+                <td>Sandra Boynton</td>
+                <td>Children/Picture/Fiction</td>
+                <td>1995</td>
+            </tr>
+        
+            <tr>
+                <td>The Lighting Thief</td>
+                <td>Rick Riordan</td>
+                <td>Young Adult/Fantasy/Greek Mythology</td>
+                <td>2006</td>
+            </tr>
+        
+            <tr>
+                <td>Beautiful Creatures</td>
+                <td>Kami Garcia & Margaret Stohl</td>
+                <td>Young Adult/Fantasy/Romance</td>
+                <td>2009</td>
+            </tr>
+        
+            <tr>
+                <td>The Legend Of Zelda Four Swords</td>
+                <td>Akira Himekawa</td>
+                <td>Manga/Fantasy/Graphic Novel</td>
+                <td>2009</td>
+            </tr>
+
+            <tr>
+                <td>It's a Spoon Not a Shovel</td>
+                <td>Caralyn Buehner</td>
+                <td>Childrens/Picture Book/Animals</td>
+                <td>1995</td>
+            </tr>
+        </tbody>
+    </thead>
+    <tfoot>
+        <tr>
+          <td colspan="4">Total Books: 5</td>
+        </tr>
+    </tfoot>
+  </table>
+
+<body>
+</body>
+
+</html>
